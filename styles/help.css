@@ -1,0 +1,145 @@
+.help {
+    background-image: url('../images/help__img__back.svg');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem 0;
+}
+
+.help__container {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+}
+
+.help__text {
+    flex: 1;
+    padding: 5rem 5rem 0; 
+    color: #072753;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.help__text h1 {
+    font-size: 3rem;
+    padding-top: 5rem;
+}
+.help__text p {
+    width:79%;
+    margin-bottom: 2rem;
+}
+.help__btn{
+    padding: 0.8rem 0 ;
+    background-color: #FF9C00;
+    font-size: 1.4rem;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+    color: white;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 20%;
+}
+.help__img {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex: 1;
+}
+.help__img img{
+    width: 100%;
+    justify-self: flex-end;
+    animation: move1 4s ease-in-out infinite 0s;
+}
+
+@keyframes move1 {
+    0%, 100% {
+        transform:  translateX(0);
+    }
+    50% {
+        transform: translateX(1rem);
+    }
+}
+
+
+
+
+/* help section 2 */
+.help2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem 0;
+}
+.help2__container {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+}
+.help2__text {
+    flex: 1;
+    padding-left: 2rem;
+    color: #072753;
+}
+.help2__text h1 {
+    font-size: 3rem;
+    padding-top: 5rem;
+}
+.help2__text p {
+    width:79%;
+    margin-bottom: 2rem;
+}
+.help2__btn{
+    padding: 0.8rem 0 ;
+    background-color: #FF9C00;
+    font-size: 1.4rem;
+    border: none;
+    border-radius: 4px;
+    outline: none;
+    color: white;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 20%;
+}
+.help2__img {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex: 1;
+    order: -1;
+    margin-left: 2rem;
+}
+.help2__img img{
+    z-index: -1;
+    width: 90%;
+    justify-self: flex-end;
+    transform: translateX(-2rem);
+    animation: move2 4s ease-in-out infinite 0s;
+}
+
+.input {
+    display: flex;
+}
+.input input {
+    width: 60%;
+    z-index: -1;
+    padding-left: 2rem;
+    background-color: #FAF9F7;
+    border: none;
+    border-radius: 5px;
+}
+@keyframes move2 {
+    0%, 100% {
+        transform:  translateX(-2rem);
+    }
+    50% {
+        transform: translateX(-4rem);
+    }
+}

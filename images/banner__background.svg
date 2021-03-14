@@ -1,0 +1,36 @@
+<svg id="BG" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920.273" height="1024" viewBox="0 0 1920.273 1024">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.475" y2="2.067" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1a4789"/>
+      <stop offset="1" stop-color="#6dbbd9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2a5e99"/>
+      <stop offset="1" stop-color="#336aa1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.524" y1="0.368" x2="0.465" y2="1.508" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3870a6"/>
+      <stop offset="1" stop-color="#3780b8"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_1" data-name="Path 1" d="M0,0H1920V795.685L0,950Z" transform="translate(0 74)" fill="url(#linear-gradient)"/>
+  <g id="Group_1" data-name="Group 1" transform="translate(73.637 20.637)">
+    <g id="rotation_1_" data-name="rotation (1)" transform="translate(1062 707)">
+      <path id="Path_6" data-name="Path 6" d="M105.318,202.637a97.318,97.318,0,1,1,97.318-97.318A97.416,97.416,0,0,1,105.318,202.637Zm0-170.307a72.989,72.989,0,1,0,72.989,72.989A73.078,73.078,0,0,0,105.318,32.33Z" transform="translate(-8 -8)" fill="#3c77aa"/>
+      <path id="Path_7" data-name="Path 7" d="M35.33,59.659a24.33,24.33,0,1,1,24.33-24.33A24.37,24.37,0,0,1,35.33,59.659Z" transform="translate(61.989 61.989)" fill="#3c77aa"/>
+    </g>
+    <g id="rotation_1_2" data-name="rotation (1)" transform="translate(1652)">
+      <path id="Path_6-2" data-name="Path 6" d="M105.318,202.637a97.318,97.318,0,1,1,97.318-97.318A97.416,97.416,0,0,1,105.318,202.637Zm0-170.307a72.989,72.989,0,1,0,72.989,72.989A73.078,73.078,0,0,0,105.318,32.33Z" transform="translate(-8 -8)" fill="#1d4b8c"/>
+      <path id="Path_7-2" data-name="Path 7" d="M35.33,59.659a24.33,24.33,0,1,1,24.33-24.33A24.37,24.37,0,0,1,35.33,59.659Z" transform="translate(61.989 61.989)" fill="#1d4b8c"/>
+    </g>
+    <g id="rotation_1_3" data-name="rotation (1)" transform="translate(78 469)">
+      <path id="Path_6-3" data-name="Path 6" d="M54.576,101.152a46.576,46.576,0,1,1,46.576-46.576A46.623,46.623,0,0,1,54.576,101.152Zm0-81.508A34.932,34.932,0,1,0,89.508,54.576,34.975,34.975,0,0,0,54.576,19.644Z" transform="translate(-8 -8)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_7-3" data-name="Path 7" d="M22.644,34.288A11.644,11.644,0,1,1,34.288,22.644,11.663,11.663,0,0,1,22.644,34.288Z" transform="translate(23.932 23.932)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <g id="rotation_1_4" data-name="rotation (1)" transform="translate(0 844)" opacity="0.337">
+      <path id="Path_6-4" data-name="Path 6" d="M63.225,118.449a55.225,55.225,0,1,1,55.225-55.225A55.28,55.28,0,0,1,63.225,118.449Zm0-96.643a41.418,41.418,0,1,0,41.418,41.418A41.469,41.469,0,0,0,63.225,21.806Z" transform="translate(-8 -8)" fill="url(#linear-gradient-4)"/>
+      <path id="Path_7-4" data-name="Path 7" d="M28.817,46.634A17.817,17.817,0,1,1,46.634,28.817,17.847,17.847,0,0,1,28.817,46.634Z" transform="translate(26.407 26.407)" fill="url(#linear-gradient-4)"/>
+    </g>
+  </g>
+  <circle id="Ellipse_1" data-name="Ellipse 1" cx="103" cy="103" r="103" transform="translate(230)" fill="#1d4b8c"/>
+</svg>
